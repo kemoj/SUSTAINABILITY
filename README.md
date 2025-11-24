@@ -1,9 +1,1 @@
-Contents
-1.	Sustainable Energy-------------------------------------------------------
-2.	Energy Optimization --------------------------------------------------
-3.	Optimizing Energy Consumption In Buildings Using   Machine Learning Algorithms
-4.	Power BI--------------------------------------
-5.	How Machine Learning Can Optimize Energy Consumption In Buildings
-
-# SUSTAINABILITY
-ENERGY OPTIMIZATION
+This work aims to predict household electricity consumption by building counterfactual models based on historical usage and weather data. The main problem addressed is the challenge of accurately assessing the value of energy efficiency improvements. By creating models that predict energy consumption without improvements, the actual lower consumption after retrofits can be compared to the modeled values to quantify savings. This can support better market incentives and financing for energy efficiency projects. 
